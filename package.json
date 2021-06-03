@@ -1,0 +1,23 @@
+{
+  "name": "pre-commit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gloomysunday28/pre-commit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gloomysunday28/pre-commit/issues"
+  },
+  "homepage": "https://github.com/Gloomysunday28/pre-commit#readme",
+  "gitHooks": {
+    "pre-commit": "echo 1"
+  }
+}
