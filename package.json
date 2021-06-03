@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Gloomysunday28/pre-commit#readme",
   "gitHooks": {
-    "pre-commit": "echo 1",
-    "commit-msg": "commitlint -E GIT_PARAMS"
+    "pre-commit": "echo 1"
   }
 }
